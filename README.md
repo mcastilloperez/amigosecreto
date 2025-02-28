@@ -6,12 +6,12 @@
 
 ## Tópicos 📌
 
-🔹 [Descripción del proyecto](#descripción-del-proyecto)
-🔹 [Funcionalidades](#funcionalidades)
-🔹 [Requisitos previos](#requisitos-previos)
-🔹 [Cómo ejecutar la aplicación](#como-ejecutar-la-aplicacion)
-🔹 [Casos de Uso](#casos-de-uso)
-🔹 [Desarrollador](#desarrollador)
+- 🔹 [Descripción del proyecto](#descripción-del-proyecto)  
+- 🔹 [Funcionalidades](#funcionalidades)  
+- 🔹 [Requisitos previos](#requisitos-previos)  
+- 🔹 [Cómo ejecutar la aplicación](#como-ejecutar-la-aplicacion)  
+- 🔹 [Casos de Uso](#casos-de-uso)  
+- 🔹 [Desarrollador](#desarrollador)  
 
 ---
 
