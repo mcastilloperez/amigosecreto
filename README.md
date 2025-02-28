@@ -6,13 +6,12 @@
 
 ## Tópicos 📌
 
-🔹 [Descripción del proyecto](#descripción-del-proyecto)  
-🔹 [Funcionalidades](#funcionalidades)  
-🔹 [Despliegue de la Aplicación](#despliegue-de-la-aplicacion)  
-🔹 [Requisitos previos](#requisitos-previos)  
+🔹 [Descripción del proyecto](#descripción-del-proyecto)
+🔹 [Funcionalidades](#funcionalidades)
+🔹 [Requisitos previos](#requisitos-previos)
 🔹 [Cómo ejecutar la aplicación](#como-ejecutar-la-aplicacion)
-🔹 [Casos de Uso](#casos-de-uso)  
-🔹 [Desarrollador](#desarrollador)  
+🔹 [Casos de Uso](#casos-de-uso)
+🔹 [Desarrollador](#desarrollador)
 
 ---
 
@@ -64,5 +63,4 @@ Este proyecto fue desarrollado como parte de la fase de selección del programa 
 ## Desarrollador 👨‍💻 <a name="desarrollador"></a>
 
 👤 **Miguel Castillo**  
-[![GitHub Followers](https://img.shields.io/github/followers/mcastilloperez?label=Follow%20%40mcastilloperez&style=social)](https://github.com/mcastilloperez)  
-[![GitHub Stars](https://img.shields.io/github/stars/mcastilloperez?label=Stars%20%40mcastilloperez&style=social)](https://github.com/mcastilloperez)
+[![GitHub](https://img.shields.io/badge/GitHub-mcastilloperez-181717?style=for-the-badge&logo=github)](https://github.com/mcastilloperez)
