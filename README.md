@@ -6,35 +6,37 @@
 
 ## Tópicos 📌
 
-🔹 [Descripción del proyecto](#descripción-del-proyecto-)  
-🔹 [Funcionalidades](#funcionalidades-)  
-🔹 [Despliegue de la Aplicación](#despliegue-de-la-aplicación-)  
-🔹 [Requisitos previos](#requisitos-previos-)  
-🔹 [Cómo ejecutar la aplicación](#cómo-ejecutar-la-aplicación-)  
+🔹 [Descripción del proyecto](#descripción-del-proyecto)  
+🔹 [Funcionalidades](#funcionalidades)  
+🔹 [Despliegue de la Aplicación](#despliegue-de-la-aplicacion)  
+🔹 [Requisitos previos](#requisitos-previos)  
+🔹 [Cómo ejecutar la aplicación](#como-ejecutar-la-aplicacion)
+🔹 [Casos de Uso](#casos-de-uso)  
+🔹 [Desarrollador](#desarrollador)  
 
 ---
 
-## Descripción del proyecto 📄
+## Descripción del proyecto 📄 <a name="descripción-del-proyecto"></a>
 
 Este proyecto fue desarrollado como parte de la fase de selección del programa **ONE (Oracle Next Education)** en colaboración con **Alura**. La aplicación tiene como objetivo facilitar la realización de sorteos de amigo secreto de forma rápida y práctica, promoviendo diversión y organización para grupos de amigos, familias o compañeros de trabajo.
 
 ---
 
-## Funcionalidades 🛠️
+## Funcionalidades 🛠️ <a name="funcionalidades"></a>
 
 ✔️ Sorteo de amigos secreto sin límite de participantes.  
 ✔️ Impedir que un participante se sortee a sí mismo.  
 
 ---
 
-## Requisitos previos ⚠️
+## Requisitos previos ⚠️ <a name="requisitos-previos"></a>
 
 - **Live Server**: Extensión de VSCode para ejecutar el proyecto en un servidor local.  
 - **Visual Studio Code (VSCode)**: Editor de código recomendado.  
 
 ---
 
-## Cómo ejecutar la aplicación ▶️
+## Cómo ejecutar la aplicación ▶️ <a name="como-ejecutar-la-aplicacion"></a>
 
 1. Clona el repositorio en tu máquina local:
    ```bash
@@ -51,7 +53,7 @@ Este proyecto fue desarrollado como parte de la fase de selección del programa 
 
 ---
 
-## Casos de Uso 📋
+## Casos de Uso 📋 <a name="casos-de-uso"></a>
 
 - **Reuniones familiares**: Ideal para organizar el amigo secreto en fiestas de fin de año, garantizando que todos participen de forma práctica.  
 - **Eventos corporativos**: Las empresas pueden usar la aplicación para facilitar el sorteo entre colaboradores, sin necesidad de organizarlo manualmente.  
@@ -59,7 +61,8 @@ Este proyecto fue desarrollado como parte de la fase de selección del programa 
 
 ---
 
-## Desarrollador 👨‍💻
+## Desarrollador 👨‍💻 <a name="desarrollador"></a>
 
 👤 **Miguel Castillo**  
-- GitHub: [mcastilloperez](https://github.com/mcastilloperez)  
+[![GitHub Followers](https://img.shields.io/github/followers/mcastilloperez?label=Follow%20%40mcastilloperez&style=social)](https://github.com/mcastilloperez)  
+[![GitHub Stars](https://img.shields.io/github/stars/mcastilloperez?label=Stars%20%40mcastilloperez&style=social)](https://github.com/mcastilloperez)
